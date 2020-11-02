@@ -14,6 +14,25 @@
 }
 .box_2 {
 }
+._形状 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:12px;
+  color:#FF6600;
+  text-align:center;
+  line-height:normal;
+}
+.paragraph {
+  text-align:left;
+}
+.heading_1 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
 .heading_2 {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
@@ -37,7 +56,7 @@
 }
 .placeholder {
 }
-._形状 {
+._形状1 {
 }
 ._图片_ {
 }
@@ -172,7 +191,7 @@
 .link_button {
   color:#169BD5;
 }
-._形状1 {
+._形状2 {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
@@ -191,10 +210,10 @@
   font-weight:400;
   font-style:normal;
 }
-.paragraph {
+.paragraph1 {
   text-align:left;
 }
-.heading_1 {
+.heading_11 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
