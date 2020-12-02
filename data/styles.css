@@ -150,6 +150,13 @@
 }
 .table_cell {
 }
+.iconfont {
+  font-family:'iconfont ', 'iconfont', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
+}
 ._线段 {
 }
 ._连接 {
@@ -201,12 +208,12 @@
   line-height:normal;
 }
 .box_21 {
-  font-family:'Microsoft YaHei ', 'Microsoft YaHei', sans-serif;
+  font-family:'MicrosoftYaHei', 'Microsoft YaHei', sans-serif;
   font-weight:400;
   font-style:normal;
 }
 .line2 {
-  font-family:'Microsoft YaHei ', 'Microsoft YaHei', sans-serif;
+  font-family:'MicrosoftYaHei', 'Microsoft YaHei', sans-serif;
   font-weight:400;
   font-style:normal;
 }
